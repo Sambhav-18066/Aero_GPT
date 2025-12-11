@@ -1,2 +1,1 @@
-# Full Version-C Agentic AI Tutor (Next.js 19 + Supabase + GPT‑4o)
-This is a skeleton project. Replace placeholders with real code.
+AeroGPT Beta - Minimal Chat UI (Option A)\n\nAdd OPENAI_API_KEY before deploying. Do NOT commit keys.
