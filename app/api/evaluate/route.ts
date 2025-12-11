@@ -1,1 +1,5 @@
-// Grammar/pronunciation evaluation placeholder
+import { NextResponse } from "next/server";
+
+export async function POST(req: Request) {
+  return NextResponse.json({ message: "Evaluate endpoint is alive." });
+}
