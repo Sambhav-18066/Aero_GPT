@@ -1,1 +1,5 @@
-// GPT-4o chat placeholder
+import { NextResponse } from "next/server";
+
+export async function POST(req: Request) {
+  return NextResponse.json({ message: "Chat endpoint is alive." });
+}
