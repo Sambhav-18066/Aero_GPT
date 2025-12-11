@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../app/layout.tsx"],"sourcesContent":["\nexport default function RootLayout({ children }) {\n  return (\n    <html lang='en'>\n      <body>{children}</body>\n    </html>\n  );\n}\n"],"names":[],"mappings":"uDACe,SAAS,EAAW,UAAE,CAAQ,CAAE,EAC7C,MACE,CAAA,EAAA,EAAA,GAAA,EAAC,OAAA,CAAK,KAAK,cACT,CAAA,EAAA,EAAA,GAAA,EAAC,OAAA,UAAM,KAGb"}
