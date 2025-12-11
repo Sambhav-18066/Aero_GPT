@@ -1,1 +1,0 @@
-Full Version C Skeleton - Expand as needed.

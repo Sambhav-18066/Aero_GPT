@@ -1,1 +1,0 @@
-// Avatar lip-sync + emotion placeholder
