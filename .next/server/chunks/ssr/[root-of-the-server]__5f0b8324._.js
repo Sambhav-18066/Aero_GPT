@@ -1,0 +1,3 @@
+module.exports=[93695,(a,b,c)=>{b.exports=a.x("next/dist/shared/lib/no-fallback-error.external.js",()=>require("next/dist/shared/lib/no-fallback-error.external.js"))},70864,a=>{a.n(a.i(33290))},43619,a=>{a.n(a.i(79962))},13718,a=>{a.n(a.i(85523))},18198,a=>{a.n(a.i(45518))},50708,a=>{"use strict";var b=a.i(7997);function c(){return(0,b.jsxs)("div",{style:{padding:20,color:"white"},children:[(0,b.jsx)("h1",{children:"Agentic AI Tutor"}),(0,b.jsx)("p",{children:"Placeholder UI"})]})}function d(){return(0,b.jsx)(c,{})}a.s(["default",()=>d],50708)}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__5f0b8324._.js.map
